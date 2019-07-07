@@ -13,10 +13,10 @@
         </q-btn>
 
         <q-toolbar-title>
-          Quasar App
+          Ericódigos
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>2019</div>
       </q-toolbar>
     </q-header>
 
@@ -26,14 +26,14 @@
       content-class="bg-grey-2"
     >
       <q-list>
-        <q-item-label header>Essential Links</q-item-label>
-        <q-item clickable tag="a" target="_blank" href="https://quasar.dev">
+        <q-item-label header>Menu</q-item-label>
+        <q-item clickable tag="a" target="_blank" href="https://docs.google.com/document/d/1XPDejfC07qBzoNMGMjCh6xOBrNkM4tx70YLgd0aVbFw/edit?usp=sharing">
           <q-item-section avatar>
-            <q-icon name="school" />
+            <q-icon name="CV" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Docs</q-item-label>
-            <q-item-label caption>quasar.dev</q-item-label>
+            <q-item-label>Curriculum</q-item-label>
+            <q-item-label caption>Eric Oliveira Lima</q-item-label>
           </q-item-section>
         </q-item>
         <q-item clickable tag="a" target="_blank" href="https://github.com/quasarframework/">
