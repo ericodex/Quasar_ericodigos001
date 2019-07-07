@@ -36,21 +36,21 @@
             <q-item-label caption>Eric Oliveira Lima</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://github.com/quasarframework/">
+        <q-item clickable tag="a" target="_blank" href="https://github.com/ericodex">
           <q-item-section avatar>
             <q-icon name="code" />
           </q-item-section>
           <q-item-section>
             <q-item-label>Github</q-item-label>
-            <q-item-label caption>github.com/quasarframework</q-item-label>
+            <q-item-label caption>github.com/ericodex</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://chat.quasar.dev">
+        <q-item clickable tag="a" target="_blank" href="https://4chan.org/gif">
           <q-item-section avatar>
             <q-icon name="chat" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Discord Chat Channel</q-item-label>
+            <q-item-label>Layout</q-item-label>
             <q-item-label caption>chat.quasar.dev</q-item-label>
           </q-item-section>
         </q-item>
